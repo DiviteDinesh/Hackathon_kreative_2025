@@ -28,7 +28,6 @@ The project was developed during the **Kreative Hackathon**, where it secured **
 
 - **Frontend**: [HTML, CSS, TAILWIND, EJS, JS]
 - **Backend**: [PYTHON, NODE]
-- **Database**: [Specify Database Used]
 
 ## Installation
 
